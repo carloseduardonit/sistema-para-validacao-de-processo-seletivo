@@ -24,10 +24,10 @@ Esse projeto foi desenvolvido como parte do curso da DIO Bootcamp e tem como obj
 
 1. **Clone o repositório:**
 
-   ```bash
+   ``` bash
 
    git clone https://github.com/carloseduardonit/sistema-para-validacao-de-processo-seletivo.git
 
    ```
-   
-<div align="center"> <small>Desenvolvido com ♥ por <strong>Carlos Eduardo NIT</strong> durante o DIO Bootcamp</small> </div> ```
+
+<div align="center"> <small>Desenvolvido com ♥ por <strong>Carlos Eduardo NIT</strong> durante o DIO Bootcamp</small> </div>
