@@ -10,7 +10,7 @@ public class Candidato {
     private String nome;
     private char sexo;
     private char [] telefone = new char[11];
-    
+    private int tentativa =0;
     private double pretensaoSalario = 0;
     private boolean elegivel;
 

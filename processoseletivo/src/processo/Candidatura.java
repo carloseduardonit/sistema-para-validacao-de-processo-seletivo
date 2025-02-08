@@ -20,11 +20,28 @@ public class Candidatura {
         Qas[0] = us1;
         Qas[1] = us2;
         Qas[2] = us3;
-        
+
         QA.verificarStatusCandidatos(Qas);
         Candidato[] selecionados = QA.selecionarCandidatos(Qas);
         QA.imprimirCandidatosSelecionados(selecionados);
+        QA.entraContatoCandidato(selecionados);
 
+    }
+
+    public void entraContatoCandidato(Candidato[] selecionados) {
+        int contador = 0;
+        do {
+            for (Candidato candidato : selecionados) {
+               if(candidato == null){
+                   contador++;
+                   continue;
+               }
+               if(candidato.isElegivel()){
+                   contador++;
+                           
+               }
+            }
+        } while (contador < selecionados.length);
     }
 
     public void imprimirCandidatosSelecionados(Candidato[] selecionados) {
