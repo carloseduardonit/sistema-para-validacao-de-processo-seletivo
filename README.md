@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido como parte do curso da DIO Bootcamp e tem como obj
 
 ---
 
-### Caso 1:
+### Caso 1: Analizando candidatos
 
 Vamos imaginar que em um processo seletivo existe o valor base salarial de RS 2.000,00 e o salário pretentido pelo candidato. Vamos elaborar um controle de fluxo onde:
 
@@ -23,26 +23,32 @@ Vamos imaginar que em um processo seletivo existe o valor base salarial de RS 2.
 **"LIGAR PARA O CANDIDATO COM CONTRA PROPOSTA"**;
 - Senão imprima: **"AGUARDANDO RESULTADO DEMAIS CANDIDATOS"**
 
-### Caso 2:
+---
+
+### Caso 2: Selecionado candidatos
 
 Foi solicitado que nosso sistema garanta que diante das inúmeras
 candidaturas sejam selecionados apenas no máximo 5 candidatos para
 entrevista onde o salário pretendido seja menor ou igual ao salário base:
 
+---
+
 ### Caso 3: imprimir a lista dos candidatos selecionados
 
 Agora é hora imprimir a lista dos candidatos selecionados para disponibilizar para o RH entrar em contato.
 
-### [ ] Caso 4: O RH deverá realizar uma ligação
+---
+
+### Caso 4: O RH deverá realizar uma ligação
 
 O RH deverá realizar uma ligação com no máximo 03 tentativas para cada candidato selecionado e caso o candidato atenda, deve-se
 
 - imprimir: **"CONSEGUIMOS CONTATO COM [CANDIDATO] Após [TENTATIVA] TENTATIVA(S)"**
 - do contrário imprima: **"NÃO CONSEGUIMOS CONTATO COM O [CANDIDATO] "**
 
-### Caso 5: Controle de Fluxo - Desafio
+---
 
-DIO - Trilha Java Básico
+### Caso 5: Controle de Fluxo - Desafio
 
 [www.dio.me](https://www.dio.me)
 
