@@ -2,15 +2,15 @@ package processo;
 
 /**
  * @author Carlos Eduardo dos Santos Figueiredo
- * @version 1.0
- *          https://github.com/carloseduardonit
- *          https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/
+ * @version 1.0 https://github.com/carloseduardonit
+ * https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/
  */
 public class Candidato {
+
     private String nome;
     private char sexo;
-    private char [] telefone = new char[11];
-    private int tentativa =0;
+    private char[] telefone = new char[11];
+    private int tentativa = 0;
     private double pretensaoSalario = 0;
     private boolean elegivel;
 
@@ -56,6 +56,34 @@ public class Candidato {
 
     private void setElegivel(boolean elegivel) {
         this.elegivel = elegivel;
+    }
+
+    public char getSexo() {
+        return sexo;
+    }
+
+    public void setSexo(char sexo) {
+        this.sexo = sexo;
+    }
+
+    public char[] getTelefone() {
+        return telefone;
+    }
+
+    public void setTelefone(char[] telefone) {
+        this.telefone = telefone;
+    }
+
+    public int getTentativa() {
+        return tentativa;
+    }
+
+    public void setTentativa() {
+        this.tentativa += 1;
+    }
+
+    public void setTentativa(int tentativa) {
+        this.tentativa = tentativa;
     }
 
 }
