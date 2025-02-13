@@ -3,7 +3,9 @@ package DesafioControleFluxo;
 
 /**
  *
- * @author Carlos Eduardo 
+ * @author Carlos Eduardo dos Santos Figueiredo
+ * @link https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/
+ * @link https://github.com/carloseduardonit
  */
 public class ParametrosInvalidosException extends Exception{
 

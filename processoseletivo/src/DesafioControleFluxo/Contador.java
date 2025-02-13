@@ -6,7 +6,9 @@ import java.util.Scanner;
 
 /**
  *
- * @author Carlos 
+ * @author Carlos Eduardo dos Santos Figueiredo
+ * @link https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/
+ * @link https://github.com/carloseduardonit
  */
 public class Contador {
 

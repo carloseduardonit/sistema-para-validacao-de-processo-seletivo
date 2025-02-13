@@ -9,7 +9,6 @@ Esse projeto foi desenvolvido como parte do curso da DIO Bootcamp e tem como obj
 - **Validação de Dados:** Confere a integridade e a consistência dos dados dos candidatos ✅  
 - **Gerenciamento de Processos Seletivos:** Organiza e automatiza as etapas do processo seletivo 📋  
 - **Interface Intuitiva:** Foco na simplicidade e usabilidade para facilitar o uso diário 🎨  
-- **Integração:** Possibilidade de integração com outros sistemas e APIs para ampliar a automação 🔗
 
 ---
 
@@ -27,9 +26,7 @@ Vamos imaginar que em um processo seletivo existe o valor base salarial de RS 2.
 
 ### Caso 2: Selecionado candidatos
 
-Foi solicitado que nosso sistema garanta que diante das inúmeras
-candidaturas sejam selecionados apenas no máximo 5 candidatos para
-entrevista onde o salário pretendido seja menor ou igual ao salário base:
+Foi solicitado que nosso sistema garanta que diante das inúmeras candidaturas sejam selecionados apenas no máximo 5 candidatos para entrevista onde o salário pretendido seja menor ou igual ao salário base:
 
 ---
 
