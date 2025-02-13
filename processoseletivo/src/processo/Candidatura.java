@@ -15,6 +15,9 @@ public class Candidatura {
     static Candidatura QA = new Candidatura();
     static Scanner ler = new Scanner(System.in);
 
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
         Candidato us1 = new Candidato("João", 2000);
         Candidato us2 = new Candidato("Jose", 1900.00);
@@ -102,7 +105,7 @@ public class Candidatura {
     /**
      * Case 2: Selecionar os candidatos elegíveis para a vaga
      *
-     * @param candidatos
+     * @param candidatos 
      * @return 
      *
      */
