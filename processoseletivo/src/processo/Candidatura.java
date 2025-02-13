@@ -6,8 +6,8 @@ import java.util.Scanner;
  *
  * @author Carlos Eduardo dos Santos Figueiredo
  * @version 1.0 
- *          https://github.com/carloseduardonit
- *          https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/
+ * @link https://github.com/carloseduardonit
+ * @link https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/
  */
 public class Candidatura {
 
@@ -64,7 +64,7 @@ public class Candidatura {
     /**
      * Case 4: Entrar em contato com os candidatos selecionados
      *
-     * @param selecionados
+     * @param selecionados 
      */
     public void entraContatoCandidato(Candidato[] selecionados) {
         int contador = 0;

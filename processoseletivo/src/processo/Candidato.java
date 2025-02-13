@@ -2,8 +2,9 @@ package processo;
 
 /**
  * @author Carlos Eduardo dos Santos Figueiredo
- * @version 1.0 https://github.com/carloseduardonit
- * https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/
+ * @version 1.0 
+ * @link https://github.com/carloseduardonit
+ * @link https://www.linkedin.com/in/carlos-eduardo-dos-s-figueiredo/
  */
 public class Candidato {
 
